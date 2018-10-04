@@ -1,0 +1,8 @@
+     Wadian High School
+	Result Sheet
+Roll   Name    Marks  Old Roll
+
+ 1     Babul	91      3
+ 2     Dabul	77      2
+ 3     Abul	75      1
+ 4     Cabul	60      4

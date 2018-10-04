@@ -1,0 +1,4 @@
+Rice      12.56
+Meat      310.5
+Sugar     100
+Petrol    90.86

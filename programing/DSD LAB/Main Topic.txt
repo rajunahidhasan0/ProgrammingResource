@@ -1,0 +1,7 @@
+1) 8*1 4 input MUX
+2) 8*1 5 input MUX
+3) Adder
+4) Subtractor
+5) Comparator 2 bit
+6) synchronus counter
+7) Asynchronus counter
